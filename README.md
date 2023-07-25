@@ -19,3 +19,6 @@ FINANCE:
 ![image](https://github.com/longbui23/Ding-Tai-Fung/assets/112489957/1f3e671c-5d4e-4a07-a4b6-549eea893bc2)
 
 ![image](https://github.com/longbui23/Ding-Tai-Fung/assets/112489957/185cd2a3-3fc3-4beb-ba56-bd23e36a0389)
+
+HR:
+![image](https://github.com/longbui23/Ding-Tai-Fung/assets/112489957/52114e44-e67b-43d6-898d-88789d549443)
