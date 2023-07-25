@@ -22,3 +22,6 @@ FINANCE:
 
 HR:
 ![image](https://github.com/longbui23/Ding-Tai-Fung/assets/112489957/52114e44-e67b-43d6-898d-88789d549443)
+
+ECOMMERCE:
+![image](https://github.com/longbui23/Ding-Tai-Fung/assets/112489957/63abd4ca-e9a7-4b99-b050-dda3f77d9144)
